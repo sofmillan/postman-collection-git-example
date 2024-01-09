@@ -7,7 +7,7 @@
 	},
 	"item": [
 		{
-			"name": "Status",
+			"name": "StatusGet",
 			"request": {
 				"method": "GET",
 				"header": [],
